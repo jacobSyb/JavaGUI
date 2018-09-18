@@ -1,0 +1,6 @@
+Funcionalities:
+1. Log in/out with saved timer (database include possibly)
+2. Overall GUI niceness ;)
+3. Event calendar
+4. Profile authentication
+5. Live time counting
